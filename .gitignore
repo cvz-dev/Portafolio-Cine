@@ -1,0 +1,23 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+*~
+
+# Claude Code
+.claude/
+
+# Logs y temporales
+*.log
+*.tmp
+*.bak
+
+# Imágenes originales / assets de alta resolución (opcionales)
+# imagenes/*.psd
+# imagenes/*.ai
