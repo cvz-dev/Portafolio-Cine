@@ -10,7 +10,7 @@ Sobre Hannibal, es increíble que, apareciendo solo unos 16 minutos en pantalla,
 
 El final me pareció muy satisfactorio. Me encantó que Clarice ganara por sus reflejos y por su enorme capacidad deductiva para saber que él era el asesino, superando la situación con habilidad mental y no con una simple pelea a golpes.
 
-## Actividad: Ficha 8. Terror y horror en El silencio de los inocentes
+## Terror y horror en El silencio de los inocentes
 
 Aunque El silencio de los inocentes a menudo se clasifica en su superficie como un thriller psicológico o policíaco, posee elementos narrativos y visuales que la consolidan como una obra maestra del género de terror y horror. A diferencia del horror sobrenatural o de monstruos fantásticos, la película fundamenta su terror en la monstruosidad humana. El filme presenta a los asesinos en serie como seres reales, metódicos y despiadados, lo que genera un horror mucho más tangible y perturbador. El terror psicológico se manifiesta principalmente a través de Hannibal Lecter, quien logra intimidar tanto a la protagonista como al espectador utilizando únicamente la palabra, su intelecto, la manipulación mental y una presencia inquietante, demostrando que el verdadero miedo nace en la mente antes de llegar a la violencia gráfica.
 

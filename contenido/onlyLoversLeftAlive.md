@@ -10,7 +10,7 @@ Sobre los protagonistas, se nota que genuinamente se aman. Dicen que los opuesto
 
 Finalmente, el caos que ocurre en el desenlace, de cierta manera, los fuerza a unirse más. Siento que deciden convertir a la joven pareja porque, al final, pueden verse a ellos mismos reflejados ahí: entienden que lo que sea que tengan que pasar, lo pueden hacer juntos.
 
-## Actividad: Ficha 11. Tipos de cine en Only Lovers Left Alive
+## Tipos de cine en Only Lovers Left Alive
 
 La película Only Lovers Left Alive se enmarca fundamentalmente dentro de la categoría del cine de arte o contemplativo. En lugar de ser una típica película de vampiros enfocada en la acción, el terror o el éxito comercial masivo, la cinta destaca por su enorme profundidad temática y se enfoca en un circuito cinéfilo más especializado. Aborda cuestiones filosóficas, existencialistas y psicológicas con gran complejidad, invitando constantemente a la reflexión sobre lo que significa tener todo el tiempo del mundo y cómo mantener el sentido de la vida frente al tedio de la eternidad. 
 

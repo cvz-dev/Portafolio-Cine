@@ -10,7 +10,7 @@ Por otro lado, me resulta impresionantemente terrible cómo mencionan que, graci
 
 En general, es un documental interesante y es triste ver que esas cosas pasen, pero es algo lento y tedioso. Se tardan demasiado en llegar a algo y me hubiera gustado que indagaran más en la psicología de ellos. Digo, al final un encierro así en algo les habrá afectado.
 
-## Actividad: Ficha 10. Documental en The Wolfpack
+## Documental en The Wolfpack
 
 La película The Wolfpack se enmarca principalmente dentro del modo observacional y el modo participativo. Por un lado, gran parte del filme funciona bajo la premisa del modo observacional, donde la cámara actúa como una "mosca en la pared". La directora captura momentos auténticos sin mediación evidente, permitiendo al espectador presenciar la peculiar cotidianidad de los hermanos Angulo dentro de su encierro en el apartamento de Manhattan. Esta observación pura es lo que nos permite contemplar la autenticidad de sus elaboradas recreaciones cinematográficas de cartón y la dinámica familiar de aislamiento sin que la cámara parezca interrumpirlos.
 

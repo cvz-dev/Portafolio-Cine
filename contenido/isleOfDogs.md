@@ -10,7 +10,7 @@ Sobre los personajes, no creí que la narrativa se enfocaría en Chief hasta que
 
 Por otro lado, la barrera del idioma me pareció muy extraña. En momentos me hubiera gustado saber exactamente qué dice Atari, pero me pareció un recurso muy interesante que pocos directores podrían hacer funcionar. Finalmente, el mensaje que quiere dar es bastante claro. Logra expresar muy bien el autoritarismo, la manipulación de los medios para sembrar el miedo en la población y, en general, el control total del gobierno ante todo, demostrando cómo se pueden fabricar crisis para justificar medidas extremas.
 
-## Actividad: Ficha 9. Animación (Stop Motion) en Isla de Perros
+## Animación (Stop Motion) en Isla de Perros
 
 La animación de Isle of dogs consolida como un exponente magistral del stop motion contemporáneo gracias a la evidente fisicalidad y textura de sus componentes. A diferencia de la animación digital moderna que suele buscar una fluidez impecable, esta técnica fotográfica cuadro por cuadro resalta deliberadamente su naturaleza artesanal. Los animadores utilizaron materiales tangibles que el espectador casi puede sentir; por ejemplo, se usó auténtica lana de alpaca para el pelaje de los perros, el cual parece reaccionar sutilmente al contacto con las manos de los animadores, y trozos de algodón iluminado para representar nubes de humo, explosiones o polvo. Este enfoque puramente material le otorga a la película una estética cruda y táctil que encaja a la perfección con el entorno de un vertedero de basura, creando un universo tridimensional donde cada objeto tiene volumen y peso real.
 

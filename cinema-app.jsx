@@ -69,7 +69,7 @@ function App() {
       setZoom({ ev: evidence, from: { left: from.left, top: from.top, width: from.width, height: from.height }, to: screenTarget(), run: false });
       requestAnimationFrame(() => requestAnimationFrame(() =>
         setZoom((z) => z && { ...z, run: true })));
-      after(760, () => { setView("sala"); setZoom(null); });
+      after(1000, () => { setView("sala"); setZoom(null); });
     } else if (mode === "telon") {
       setCurtain("closed");
       after(720, () => { setView("sala"); after(60, () => setCurtain("open")); });

@@ -282,7 +282,7 @@ button { font-family: inherit }
 .sc-body,
 .sc-md p {
   font-family: var(--font-body); font-size: clamp(15px, 1.55vw, 18.5px);
-  line-height: 1.62; color: #352a16; margin: 0 0 .7em; text-wrap: pretty;
+  line-height: 1.62; color: #352a16; margin: 0 0 .7em; text-align: justify;
 }
 .sc-md p:last-child { margin-bottom: 0 }
 .sc-md strong { font-weight: 700; color: #1c1509 }
@@ -294,7 +294,7 @@ button { font-family: inherit }
   font-family: var(--font-head); text-transform: uppercase;
   letter-spacing: .18em; font-size: 12px; color: #9c7a2e; margin: .4em 0;
 }
-.sc-actividad { margin-top: 1.7em; max-width: none }
+.sc-actividad { margin-top: 1.7em; max-width: none; text-align: justify }
 .sc-actividad .sc-body { max-width: none }
 .fin {
   text-align: center; font-family: var(--font-display); font-weight: var(--disp-weight);
