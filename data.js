@@ -10,7 +10,7 @@ window.EVIDENCES = [
     poster: "imagenes/blackKKlansman.jpg",
     focalPoint: "50% 60%",
     contenido: "contenido/blackKKlansman.md",
-    ficha: { "Título": "BlacKkKlansman (Infiltrado en el KKKlan)", "Género": "Drama / Comedia biográfica / Crimen", "Productor": "J. Blum, S. Lee, R. Mansfield, S. McKittrick, J. Peele, S. Redick", "Casa productora": "Blumhouse / Monkeypaw / QC Ent. / 40 Acres & A Mule", "Director": "Spike Lee", "Guión": "S. Lee, C. Wachtel, D. Rabinowitz, K. Willmott", "Fotografía": "Chayse Irvin", "Duración": "135 min", "País": "Estados Unidos", "Año": "2018" }
+    ficha: { "Título": "BlacKkKlansman", "Género": "Drama / Comedia biográfica / Crimen", "Productor": "J. Blum, S. Lee, R. Mansfield, S. McKittrick, J. Peele, S. Redick", "Casa productora": "Blumhouse / Monkeypaw / QC Ent. / 40 Acres & A Mule/ Legendary Pictures", "Director": "Spike Lee", "Guión": "S. Lee, C. Wachtel, D. Rabinowitz, K. Willmott", "Fotografía": "Chayse Irvin", "Duración": "135 min", "País": "Estados Unidos", "Año": "2018" }
   },
   {
     id: "ev02", num: "02", title: "Django Unchained",
@@ -18,7 +18,7 @@ window.EVIDENCES = [
     poster: "imagenes/djangoUnchained.jpg",
     focalPoint: "50% 10%",
     contenido: "contenido/djangoUnchained.md",
-    ficha: { "Título": "Django Unchained (Django desencadenado)", "Género": "Western / Drama", "Productor": "Stacey Sher, Reginald Hudlin, Pilar Savone", "Casa productora": "Columbia Pictures / The Weinstein Company / A Band Apart", "Director": "Quentin Tarantino", "Guión": "Quentin Tarantino", "Fotografía": "Robert Richardson", "Duración": "165 min", "País": "Estados Unidos", "Año": "2012" }
+    ficha: { "Título": "Django Unchained", "Género": "Western / Drama", "Productor": "Stacey Sher, Reginald Hudlin, Pilar Savone", "Casa productora": "Columbia Pictures / The Weinstein Company / A Band Apart", "Director": "Quentin Tarantino", "Guión": "Quentin Tarantino", "Fotografía": "Robert Richardson", "Duración": "165 min", "País": "Estados Unidos", "Año": "2012" }
   },
   {
     id: "ev03", num: "03", title: "Thelma & Louise",
@@ -76,6 +76,22 @@ window.EVIDENCES = [
     focalPoint: "50% 90%",
     contenido: "contenido/isleOfDogs.md",
     ficha: { "Título": "Isle of Dogs (La isla de los perros)", "Género": "Animación / Comedia / Aventura", "Productor": "Wes Anderson, Scott Rudin, Steven Rales, Jeremy Dawson", "Casa productora": "American Empirical Pictures / Indian Paintbrush / Fox Searchlight Pictures", "Director": "Wes Anderson", "Guión": "Wes Anderson", "Fotografía": "Tristan Oliver", "Duración": "101 min", "País": "Estados Unidos / Alemania", "Año": "2018" }
+  },
+  {
+    id: "ev10", num: "10", title: "The Wolfpack",
+    genre: "Documental", rating: 4,
+    poster: "imagenes/theWolfpack.jpg",
+    focalPoint: "50% 75%",
+    contenido: "contenido/wolfpack.md",
+    ficha: { "Título": "The Wolfpack", "Género": "Documental", "Productor": "Crystal Moselle, Protagonist Pictures", "Casa productora": "Radius-TWC / Dolce Content", "Director": "Crystal Moselle", "Guión": "Crystal Moselle", "Fotografía": "Crystal Moselle", "Duración": "90 min", "País": "Estados Unidos", "Año": "2015" }
+  },
+  {
+    id: "ev11", num: "11", title: "Only Lovers Left Alive",
+    genre: "Drama · Terror romántico", rating: 4.5,
+    poster: "imagenes/onlyLoversLeftAlive.jpg",
+    focalPoint: "50% 20%",
+    contenido: "contenido/onlyLoversLeftAlive.md",
+    ficha: { "Título": "Only Lovers Left Alive", "Género": "Drama / Terror romántico / Fantasía", "Productor": "Reinhard Brundig, Jeremy Thomas", "Casa productora": "Recorded Picture Company / Pandora Film / Dezenove Som e Imagens", "Director": "Jim Jarmusch", "Guión": "Jim Jarmusch", "Fotografía": "Yorick Le Saux", "Duración": "123 min", "País": "Reino Unido / Alemania / Francia / Grecia / Chipre", "Año": "2013" }
   }
 ];
 

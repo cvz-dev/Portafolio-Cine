@@ -10,7 +10,7 @@ Hablando del ritmo narrativo, es una película larga y tiene uno que otro cambio
 
 Aún a pesar de eso, la resolución me parece bastante buena, toda la parte final donde hay varios tiroteos y se ve perdido todo me parece muy bien ejecutada. El final tal vez cae un poco en lo cliché de los westerns, pero funciona perfecto y te deja satisfecho.
 
-## Actividad
+## Viaje del héroe
 
 **1. Mundo ordinario.**
 Django es un esclavo encadenado, separado de su esposa Broomhilda, caminando descalzo por el bosque bajo el yugo de los hermanos Speck.

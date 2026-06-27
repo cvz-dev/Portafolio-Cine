@@ -81,42 +81,47 @@ function Sala({ ev, onExit }) {
             {status === "loading" && <p className="sc-loading">Cargando reseña…</p>}
             {status === "error" && <p className="sc-loading">No se pudo cargar el contenido.</p>}
 
-            {status === "ready" && (
-              <>
-                <div className="sc-grid">
-                  <div className="sc-col">
-                    <div className="sc-block">
-                      <div className="sc-h">Reseña</div>
-                      <MdBlock html={sec["Reseña"]} />
+            {status === "ready" && (() => {
+              const actKey = Object.keys(sec).find(k => k !== "Reseña" && k !== "Opinión");
+              return (
+                <>
+                  <div className="sc-grid">
+                    <div className="sc-col">
+                      <div className="sc-block">
+                        <div className="sc-h">Reseña</div>
+                        <MdBlock html={sec["Reseña"]} />
+                      </div>
+
+                      <div className="sc-block">
+                        <div className="sc-h">Opinión</div>
+                        <MdBlock html={sec["Opinión"]} />
+                      </div>
                     </div>
 
-                    <div className="sc-block">
-                      <div className="sc-h">Opinión</div>
-                      <MdBlock html={sec["Opinión"]} />
+                    <div className="sc-col">
+                      <div className="sc-block sc-ficha">
+                        <div className="sc-h">Ficha técnica</div>
+                        <dl className="ficha-list">
+                          {Object.entries(ev.ficha).map(([k, v]) => (
+                            <div className="ficha-row" key={k}>
+                              <dt>{k}</dt>
+                              <dd className={k === "Título" ? "ficha-titulo" : ""}>{v}</dd>
+                            </div>
+                          ))}
+                        </dl>
+                      </div>
                     </div>
                   </div>
 
-                  <div className="sc-col">
-                    <div className="sc-block sc-ficha">
-                      <div className="sc-h">Ficha técnica</div>
-                      <dl className="ficha-list">
-                        {Object.entries(ev.ficha).map(([k, v]) => (
-                          <div className="ficha-row" key={k}>
-                            <dt>{k}</dt>
-                            <dd className={k === "Título" ? "ficha-titulo" : ""}>{v}</dd>
-                          </div>
-                        ))}
-                      </dl>
+                  {actKey && (
+                    <div className="sc-block sc-actividad">
+                      <div className="sc-h">{actKey}</div>
+                      <MdBlock html={sec[actKey]} />
                     </div>
-                  </div>
-                </div>
-
-                <div className="sc-block sc-actividad">
-                  <div className="sc-h">Actividad</div>
-                  <MdBlock html={sec["Actividad"]} />
-                </div>
-              </>
-            )}
+                  )}
+                </>
+              );
+            })()}
 
             <div className="fin">— FIN —</div>
           </div>

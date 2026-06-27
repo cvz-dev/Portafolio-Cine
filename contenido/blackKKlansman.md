@@ -12,7 +12,7 @@ Aun así, el manejo del tono es muy interesante. Disfruté mucho la comedia esti
 
 Lo que definitivamente te deja frío es el drástico cambio de atmósfera en el final. Ver las noticias de la vida real es demasiado impactante. Pasar de una historia que a ratos rozaba la parodia a chocar de frente con esa cruda realidad contemporánea es un golpe brutal, pero es un cierre necesario para que el mensaje realmente te sacuda.
 
-## Actividad
+## Tres actos aristotélicos
 
 ### Primer Acto: Planteamiento
 
