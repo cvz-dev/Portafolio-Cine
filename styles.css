@@ -199,7 +199,9 @@ button { font-family: inherit }
   align-items: center; justify-content: center; padding: 0 1.6vw;
 }
 .screen {
-  position: relative; width: min(97vw, 1760px); max-height: 90vh; aspect-ratio: 2/1;
+  position: relative; width: min(97vw, 1760px); aspect-ratio: 2/1;
+  max-height: 90vh;
+  min-height: min(72vh, calc(min(97vw, 1760px) / 1.5));
   border-radius: 3px; overflow: hidden;
   background: radial-gradient(130% 130% at 50% 22%, #fbf4e4, #ece0c6 78%, #e2d4b6 100%);
   box-shadow: 0 0 0 1px rgba(0,0,0,.5), 0 0 60px rgba(var(--glow),.45),
@@ -393,10 +395,38 @@ button { font-family: inherit }
 @keyframes screenIn  { from { opacity: 0; transform: scale(.955) } to { opacity: 1; transform: none } }
 
 /* ── Responsive ──────────────────────────────────────────── */
-@media (max-width: 760px) {
-  .sc-grid { grid-template-columns: 1fr; gap: 1.7em }
-  .sc-col  { gap: 1.7em }
+
+/* Pantalla desde arriba: evita espacio negro encima */
+@media (max-width: 1440px) {
+  .screen-stage {
+    justify-content: flex-start;
+    padding-top: clamp(0px, 1.2vh, 14px);
+  }
+  .screen-cast { height: 22px; margin-top: 6px }
 }
+
+/* Grid de contenido: una columna desde antes */
+@media (max-width: 900px) {
+  .sc-grid { grid-template-columns: 1fr; gap: 1.5em }
+  .sc-col  { gap: 1.5em }
+}
+
+/* Móvil */
+@media (max-width: 600px) {
+  .screen {
+    width: 100vw; aspect-ratio: unset; min-height: 100dvh;
+    max-height: none; border-radius: 0;
+  }
+  .screen-stage { justify-content: flex-start; padding: 0 }
+  .screen-cast  { display: none }
+  .beam         { display: none }
+  .seats        { display: none }
+  .sc-grid      { grid-template-columns: 1fr; gap: 1.4em }
+  .sc-col       { gap: 1.4em }
+  .exit-sign    { top: 10px; right: 10px; padding: 6px 10px }
+  .exit-word    { font-size: 11px }
+}
+
 @media (prefers-reduced-motion: reduce) {
   .bulb, .beam, .grain, .screen-flicker, .mote { animation: none !important }
   .poster, .sala, .screen { animation: none !important }
